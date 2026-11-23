@@ -1,0 +1,15 @@
+.env
+.env.*
+*.key
+*.pem
+
+# Runtime state and generated uploads
+latest_spin.json
+uploads/
+
+# Sensitive or environment-specific data
+officials_504.json
+seminar_users.json
+performance-appraisal.users19.json
+รายชื่อเจ้าหน้าที่_1793870022477.xlsx
+reset_postgres.bat
